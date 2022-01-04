@@ -1,4 +1,4 @@
-- 👋 Olá , me chamo Thiago de Oliveira 
+- 👋 Olá , me chamo Thiago de Oliveira De Almeida
 - 🌱 Possuo conhecimento em linguagem Python , SQL entre outros.
 - 💞️ Estou em busca de uma oportunidade  de Data Engineer.
 
